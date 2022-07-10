@@ -1,6 +1,6 @@
 # spring-boot-demo
 
-# written after 2022/01, upload during summer break 
+# written after 12/2021, upload during summer break 2022
 # springboot demo
 # Springboot framework with Java in MVC  
 # Mybatis framework to control database
